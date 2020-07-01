@@ -1,6 +1,6 @@
 class GetRequester
   
-  URL = "https://learn-co-curriculum.github.io/json-site-example/endpoints/people.json"
+  URL = []
   
   def parse_json
     uri = URI.parse(URL)
